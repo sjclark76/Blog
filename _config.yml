@@ -12,7 +12,7 @@ title: "Stuart Clark"
 tagline: "Strong opinions, loosely held."
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "BlogInn is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
+description: "A site about coding, architecture and adventure."
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
@@ -23,7 +23,7 @@ sass:
   style: compressed
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://bloginn.netlify.app"
+url: "https://stuartclark.co.nz"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -43,7 +43,7 @@ google_analytics: "UA-173581581-2"
 # Author information - author info at the bottom of the post
 author_name: "Stuart Clark"
 author_bio: "Stuart is a developer, coding architect and general outdoor enthusiast."
-author_url: "http://justgoodthemes.com"
+# author_url: "http://justgoodthemes.com"
 author_location: "Wellington, New Zealand"
 author_image: /images/author.jpg
 
