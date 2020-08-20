@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "gRPC testing with .NET Core Test Server"
-date:   2016-03-19
+date:   2020-08-20
 image: /images/posts/computer-error.jpg
 tags: [.NET Core, gRPC, Testing]
 ---
