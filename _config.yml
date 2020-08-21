@@ -35,8 +35,8 @@ navigation:
     url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus: "justgoodthemes"
-
+disqus: "https-stuartclark-co-nz"
+foo: "baa"
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: "UA-173581581-2"
 
