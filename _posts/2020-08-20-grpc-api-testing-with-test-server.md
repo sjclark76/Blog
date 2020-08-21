@@ -3,7 +3,7 @@ layout: post
 title:  "gRPC testing with .NET Core Test Server"
 date:   2020-08-20
 image: /images/posts/computer-error.jpg
-tags: [.NET Core, gRPC, Testing]
+tags: [.NET Core, gRPC, Testing, Bard.gRPC]
 ---
 
 Recently I have been doing some work with gRPC in .NET core. I'm a big fan of functional testing against my APIs so I tried to spin up my gRPC API and test it with .NET Core's TestServer when I got this exception.
